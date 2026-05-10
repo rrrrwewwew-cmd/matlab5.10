@@ -1,0 +1,7 @@
+name,xmin,xmax,ymin,ymax,zmin,zmax
+left_wall,-1.02,-1,0,10,0,1.8
+right_wall,1,1.02,0,10,0,1.8
+block_1,-1,-0.2,2,2.3,0,1.5
+block_2,0.2,1,4,4.3,0,1.5
+block_3,-1,-0.2,6,6.3,0,1.5
+block_4,0.2,1,8,8.3,0,1.5
